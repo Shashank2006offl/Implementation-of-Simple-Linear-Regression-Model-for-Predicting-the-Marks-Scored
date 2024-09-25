@@ -118,9 +118,7 @@ Test Set Graph :
 ![test](https://user-images.githubusercontent.com/119393424/229979225-ba90853c-7fe0-4fb2-8454-a6a0b921bdc1.png)
 
 
-Values of MSE, MAE and RMSE
-
-![mse](https://user-images.githubusercontent.com/119393424/229979276-bb9ffc68-25f8-42fe-9f2a-d7187753aa1c.png)
+Values of MSE, MAE and RMSE: ![mse](https://user-images.githubusercontent.com/119393424/229979276-bb9ffc68-25f8-42fe-9f2a-d7187753aa1c.png)
 
 
 ## Result:
