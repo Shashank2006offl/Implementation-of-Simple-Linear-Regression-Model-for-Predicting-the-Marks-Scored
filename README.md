@@ -42,31 +42,23 @@ Developed by: Shashank R
 RegisterNumber:  212222240027
 */
 
-
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
 from sklearn.metrics import mean_absolute_error,mean_squared_error
-
 #load dataset
 df=pd.read_csv('student_scores.csv')
-
 df.head()
 df.tail()
-
 x = df.iloc[:,:-1].values
 x
-
 y = df.iloc[:,1].values
 y
-
 from sklearn.model_selection import train_test_split
 x_train,x_test,y_train,y_test=train_test_split(x,y,test_size=1/3,random_state=0)
-
 from sklearn.linear_model import LinearRegression
 regressor = LinearRegression()
 regressor.fit(x_train,y_train)
-
 y_pred = regressor.predict(x_test)
 y_pred
 y_test
@@ -89,14 +81,10 @@ plt.show()
 
 mse=mean_absolute_error(y_test,y_pred)
 print('MSE = ',mse)
-
 mae=mean_absolute_error(y_test,y_pred)
 print('MAE = ',mae)
-
 rmse=np.sqrt(mse)
 print("RMSE= ",rmse)
-
-
 ```
 
 
