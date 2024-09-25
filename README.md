@@ -114,9 +114,17 @@ Array value of Y
 ![yvalue](https://user-images.githubusercontent.com/119393424/229978994-b0d2c87c-bef9-4efe-bba2-0bc57d292d20.png)
 
 
+
+
+
+
+
+
+
 Training Set Graph
 
 ![image](https://github.com/user-attachments/assets/eddb4993-677e-4b01-9c5a-ff363088a261)
+
 
 
 Test Set Graph
