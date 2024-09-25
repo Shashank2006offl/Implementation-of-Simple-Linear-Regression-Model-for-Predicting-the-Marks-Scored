@@ -73,15 +73,6 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
-
-df.head()
-
-![dfhead](https://user-images.githubusercontent.com/119393424/229978451-2b6bdc4f-522e-473e-ae2f-84ec824344c5.png)
-
-df.tail()
-
-![dftail](https://user-images.githubusercontent.com/119393424/229978854-6af7d9e9-537f-4820-a10b-ab537f3d0683.png)
-
 Array value of X
 
 ![xvalue](https://user-images.githubusercontent.com/119393424/229978918-707c006d-0a30-4833-bf77-edd37e8849bb.png)
