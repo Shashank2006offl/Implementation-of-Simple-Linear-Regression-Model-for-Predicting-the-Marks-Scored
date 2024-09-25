@@ -73,6 +73,13 @@ print("RMSE= ",rmse)
 ```
 
 ## Output:
+Values of Y prediction
+![ypred](https://user-images.githubusercontent.com/119393424/229979053-f32194cb-7ed4-4326-8a39-fe8186079b63.png)
+
+Array values of Y test
+![ytest](https://user-images.githubusercontent.com/119393424/229979114-3667c4b7-7610-4175-9532-5538b83957ac.png)
+
+
 Array value of X
 
 ![xvalue](https://user-images.githubusercontent.com/119393424/229978918-707c006d-0a30-4833-bf77-edd37e8849bb.png)
@@ -80,12 +87,6 @@ Array value of X
 Array value of Y
 
 ![yvalue](https://user-images.githubusercontent.com/119393424/229978994-b0d2c87c-bef9-4efe-bba2-0bc57d292d20.png)
-
-Values of Y prediction
-![ypred](https://user-images.githubusercontent.com/119393424/229979053-f32194cb-7ed4-4326-8a39-fe8186079b63.png)
-
-Array values of Y test
-![ytest](https://user-images.githubusercontent.com/119393424/229979114-3667c4b7-7610-4175-9532-5538b83957ac.png)
 
 
 Training Set Graph
