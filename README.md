@@ -1,6 +1,7 @@
 # Implementation-of-Simple-Linear-Regression-Model-for-Predicting-the-Marks-Scored
 
 
+
 ## AIM:
 
 To write a program to predict the marks scored by a student using the simple linear regression model.
@@ -12,6 +13,7 @@ To write a program to predict the marks scored by a student using the simple lin
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
+
 
 Step 1: Start program
 
@@ -29,7 +31,9 @@ Step 7. Compare the graphs and hence we obtained the linear regression for the g
 
 Step 8. End Program.
 
+
 ## Program:
+
 
 ```
 /*
@@ -88,12 +92,14 @@ print("RMSE= ",rmse)
 
 
 Values of Y prediction
+
 ![ypred](https://user-images.githubusercontent.com/119393424/229979053-f32194cb-7ed4-4326-8a39-fe8186079b63.png)
 
 
 
 
 Array values of Y test
+
 ![ytest](https://user-images.githubusercontent.com/119393424/229979114-3667c4b7-7610-4175-9532-5538b83957ac.png)
 
 
